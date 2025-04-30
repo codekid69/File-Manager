@@ -1,8 +1,36 @@
-# React + Vite
+# 📁 React File Manager UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek, minimal file manager interface built with **React**, **Tailwind CSS**, and **Framer Motion**, inspired by Google Drive. This is a frontend-only UI project — great for demos or as a base for full-stack apps.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📄 File and folder listing UI
+- 👀 Preview, Download, Rename, Delete file actions
+- 📂 Folder-friendly design
+- 💨 Smooth animations with Framer Motion
+- 🎨 Modern design using Tailwind CSS
+- 🧠 Clean, context-based state management
+
+## 🛠 Tech Stack
+
+- **React 18**
+- **Vite**
+- **Tailwind CSS**
+- **Framer Motion**
+- **React Icons**
+- **React Context API**
+
+## 📦 Getting Started
+
+```bash
+# 1. Install dependencies
+npm install
+
+# 2. Start development server
+npm run dev
+
+# 3. Build for production
+npm run build
+
+# 4. Preview production build
+npm run preview
